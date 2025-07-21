@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+💪 Balaji Fitness Center
+📌 Project Overview
+The Balaji Fitness Center website is a comprehensive digital platform designed to deliver fitness-related services, information, and engagement to both current members and prospective clients. It offers an intuitive, user-friendly interface with powerful features aimed at improving user experience and operational efficiency.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Key Features
+🔐 Authentication
 
-## Available Scripts
+Secure SignUp and SignIn functionality.
 
-In the project directory, you can run:
+Password encryption and session handling.
 
-### `npm start`
+👤 Account Management
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Personalized user dashboard.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Profile editing, notification preferences, support ticket submission, and report viewing.
 
-### `npm test`
+📬 Communication
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+"Contact Us" form for feedback, inquiries, and support via email, phone, or direct messaging.
 
-### `npm run build`
+ℹ️ Information
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+"About Us" page detailing the fitness center's mission, values, and team.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+💼 Fitness Services
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Descriptions of offered fitness and wellness services, including personal training, yoga, Zumba, etc.
 
-### `npm run eject`
+📰 Insights & Updates
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Blog section featuring fitness tips, healthy habits, and center news.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📅 Upcoming Events
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Events page highlighting upcoming classes, workshops, and fitness challenges.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+📸 Visual Experience
 
-## Learn More
+Gallery with photos and videos of gym facilities, equipment, classes, and events.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+💳 Membership Options
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Membership Plans page with detailed pricing and feature comparison.
 
-### Code Splitting
+❓ Quick Answers
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Frequently Asked Questions (FAQs) to clarify common queries about the center’s services and policies.
 
-### Analyzing the Bundle Size
+🕒 Class Schedule
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Organized timetable of all group and personal fitness classes.
 
-### Making a Progressive Web App
+🌟 Inspiration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Member testimonials and success stories to inspire and motivate.
 
-### Advanced Configuration
+🏆 Motivation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Fitness challenges and leaderboards to engage users in healthy competition.
 
-### Deployment
+🔑 Account Recovery
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+"Forgot Password" feature to securely reset user credentials.
 
-### `npm run build` fails to minify
+🗓️ Planning
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Centralized schedule page showing upcoming activities, classes, and events.
+
+📥 Reservations
+
+Booking system for reserving spots in group classes or individual training sessions.
