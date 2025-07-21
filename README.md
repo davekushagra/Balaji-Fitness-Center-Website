@@ -1,8 +1,12 @@
 💪 Balaji Fitness Center
+
+
 📌 Project Overview
 The Balaji Fitness Center website is a comprehensive digital platform designed to deliver fitness-related services, information, and engagement to both current members and prospective clients. It offers an intuitive, user-friendly interface with powerful features aimed at improving user experience and operational efficiency.
 
 🚀 Key Features
+
+
 🔐 Authentication
 
 Secure SignUp and SignIn functionality.
